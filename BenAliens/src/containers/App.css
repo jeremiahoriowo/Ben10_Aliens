@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'GROBOLD';
+    font-style: normal;
+    font-weight: normal;
+    src: local('GROBOLD'), url('GROBOLD.woff') format('woff');
+    }
+
+    h1{
+        font-family: 'GROBOLD';
+        font-weight: 200;
+        color: lightgreen;
+    }
+    h2{
+        font-family: 'GROBOLD';
+        font-weight: 200;
+        color: darkgreen;
+    }
